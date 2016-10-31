@@ -1,0 +1,9 @@
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\bin\Debug\Selasa_1411107852_Tommy.exe.config
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\bin\Debug\Selasa_1411107852_Tommy.exe
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\bin\Debug\Selasa_1411107852_Tommy.pdb
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.csprojResolveAssemblyReference.cache
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.Latihan_1_1.resources
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.Properties.Resources.resources
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.csproj.GenerateResource.Cache
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.exe
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Selasa_1411107852_Tommy\obj\Debug\Selasa_1411107852_Tommy.pdb
