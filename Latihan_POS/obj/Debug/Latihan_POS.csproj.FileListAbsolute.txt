@@ -1,0 +1,15 @@
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\bin\Debug\MySql.Data.dll
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\bin\Debug\ObjectDumper.dll
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.loginForm.resources
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Tommy Campus\SV\Framework Lanjutan\Senin_141112028_Calvin-master\Senin_141112028_Calvin\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Tommy Campus\SV\Framework Lanjutan\Selasa_1411107852_Tommy\Latihan_POS\obj\Debug\Latihan_POS.pdb

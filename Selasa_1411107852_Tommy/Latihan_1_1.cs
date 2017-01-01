@@ -27,6 +27,7 @@ namespace Selasa_1411107852_Tommy
 
         private void Latihan_1_1_Load(object sender, EventArgs e)
         {
+            tabControl1.SelectedTab = Help;
             label1.Text = "" + vScrollBar1.Value.ToString();
             label2.Text = "" + vScrollBar2.Value.ToString();
 
@@ -34,7 +35,7 @@ namespace Selasa_1411107852_Tommy
             tooltip.AutoPopDelay = 3000;
             tooltip.InitialDelay = 500;
             tooltip.ReshowDelay = 100;
-
+            tooltip.SetToolTip(this.halaman1next, "Next");
         }
 
         private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
@@ -75,5 +76,16 @@ namespace Selasa_1411107852_Tommy
         {
             label2.Text = "" + vScrollBar2.Value.ToString();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Latihan_2_1 latihan2 = new Latihan_2_1();
+            Latihan_1_1 latihan1 = new Latihan_1_1();
+            this.Hide();
+            latihan1.Close();
+            latihan2.Show();
+
+        }
+
     }
 }
